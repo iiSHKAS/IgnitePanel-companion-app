@@ -7,8 +7,10 @@ It mirrors your main panel buttons and lets you trigger actions remotely through
 
 ## Screenshots
 
-<img src="App_icons/main.jpg" width="48%" />
-<img src="App_icons/settings.jpg" width="48%" />
+<p align="center">
+  <img src="App_icons/main.jpg" width="45%" />
+  <img src="App_icons/settings.jpg" width="45%" />
+</p>
 
 ---
 
